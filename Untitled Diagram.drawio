@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="gZ6Tse8TKeXj1J2C1tIH">
-    <mxGraphModel>
+    <mxGraphModel dx="973" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-1" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-2" value="History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Preferences" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-4" value="Text or History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-13" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-16" value="&amp;nbsp;History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-17" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-21" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="460" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-27" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="327.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-28" value="Search Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="520" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-29" value="&amp;nbsp;History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="560" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-36" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="527.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="620" as="sourcePoint" />
+            <mxPoint x="600" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-51" value="Search Bar(On Click)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="520" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-52" value="&amp;nbsp;History" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="560" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MPmiowp_ix5yQ93uDgWm-57" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
